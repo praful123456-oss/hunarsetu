@@ -1,6 +1,6 @@
-# 🛠️ LocalPro – Location-Based Skilled Worker Service Platform
+hunarsetu – Location-Based Skilled Worker Service Platform
 
-**LocalPro** is a full-stack web application that connects clients with nearby skilled workers, such as electricians, plumbers, carpenters, painters, masons, and general laborers. The platform helps clients find workers based on their location, compare service rates, check availability, and send job requests online.
+Hunarsetu is a full-stack web application that connects clients with nearby skilled workers, such as electricians, plumbers, carpenters, painters, masons, and general laborers. The platform helps clients find workers based on their location, compare service rates, check availability, and send job requests online.
 
 Workers can create professional profiles, manage their availability, receive job requests, and accept or decline work through their dashboard.
 
